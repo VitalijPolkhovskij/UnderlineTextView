@@ -1,2 +1,3 @@
 # UnderlineTextView
- Underline TextView
+[![](https://jitpack.io/v/VitalijPolkhovskij/UnderlineTextView.svg)](https://jitpack.io/#VitalijPolkhovskij/UnderlineTextView)
+
